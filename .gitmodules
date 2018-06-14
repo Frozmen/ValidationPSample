@@ -1,0 +1,6 @@
+[submodule "validationP"]
+	path = validationP
+	url = https://github.com/Frozmen/validationP.git
+[submodule "controllers"]
+	path = controllers
+	url = https://github.com/bolein/controllers.git
